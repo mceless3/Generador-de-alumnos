@@ -6,6 +6,8 @@ Celeste Román
 
 Sistema generador de alumnos, genera scripts con datos aleatorios en distintos formatos de 1 a 50000 registros para añadir a una base de datos.
 
+Descargar carpeta para usar y abrir desde un IDE.
+
 <img width="970" height="325" alt="image" src="https://github.com/user-attachments/assets/ad847970-e7d4-41bd-9613-4095e3ec08fd" />
 
 <img width="953" height="752" alt="image" src="https://github.com/user-attachments/assets/99d0469c-4847-424e-a25d-d0fb778fe31e" />
